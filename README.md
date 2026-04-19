@@ -1,3 +1,4 @@
+📊 **[Click here to view the Interactive Tableau Dashboard](https://public.tableau.com/authoring/TUI_Analytics_Project/Dashboard1#1)**
 # TUI Analytics Showcase: Hotel Booking Demand Pipeline ✈️🏖️
 
 ## 📌 Project Overview
