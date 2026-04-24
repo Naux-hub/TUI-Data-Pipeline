@@ -1,0 +1,4 @@
+*.duckdb
+*.db
+logs/
+data_raw/
